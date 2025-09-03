@@ -10,8 +10,9 @@
 
 /* HTML Reset */
 html {
-	font-size: var(--font-size);
 	font-family: var(--font-family-fig-tree);
+	font-size: var(--font-size);
+	line-height: 150%;
 }
 
 /* Body Reset */
@@ -67,4 +68,9 @@ time {
 h3 {
 	font-size: 1.5rem;
 	font-weight: var(--font-weight-bold);
+}
+
+/* Paragraph Reset */
+p {
+	color: var(--accent-color);
 }
