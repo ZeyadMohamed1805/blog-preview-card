@@ -1,0 +1,19 @@
+/** Variables **/
+
+:root {
+	/* Color Variables */
+	--white-color: hsl(0, 0%, 100%);
+	--accent-color: hsl(0, 0%, 42%);
+	--secondary-color: hsl(0, 0%, 7%);
+	--primary-color: hsl(47, 88%, 63%);
+
+	/* Font Size Variables */
+	--font-size: 16px;
+
+	/* Font Family Variables */
+	--font-family-fig-tree: "FigTree", sans-serif;
+
+	/* Font Weight Variables */
+	--font-weight-regular: 500;
+	--font-weight-bold: 800;
+}

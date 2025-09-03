@@ -1,0 +1,19 @@
+/** Fonts **/
+
+/* FigTree Variable Font */
+@font-face {
+	font-family: "FigTree";
+	src: url("../../../assets/fonts/fig-tree/FigTree-VariableFont_weight.ttf")
+		format("truetype");
+	font-weight: 500, 800;
+	font-style: normal;
+}
+
+/* FigTree Italic Variable Font */
+@font-face {
+	font-family: "FigTree";
+	src: url("../../../assets/fonts/fig-tree/FigTree-Italic-VariableFont_weight.ttf")
+		format("truetype");
+	font-weight: 500, 800;
+	font-style: italic;
+}
