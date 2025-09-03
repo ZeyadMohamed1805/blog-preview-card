@@ -10,7 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-This project is a static social links profile page built as part of a Frontend Mentor challenge. The goal was to accurately reproduce a provided design using semantic HTML and modern CSS, focusing on layout, typography, and responsive design.
+This project is a static blog preview card page built as part of a Frontend Mentor challenge. The goal was to accurately reproduce a provided design using semantic HTML and modern CSS, focusing on layout, typography, and responsive design.
 
 ### Built with
 
