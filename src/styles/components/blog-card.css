@@ -1,12 +1,12 @@
 /** Blog Card **/
 
-/* Main */
-main {
+/* Article */
+article {
 	background-color: var(--white-color);
 	border: solid 0.0625rem;
 	outline: none;
+	width: 100%;
 	max-width: 23.4375rem;
-	margin: 0 auto;
 	padding: 1.5rem;
 	border-radius: 1rem;
 	box-shadow: 0.375rem 0.375rem 0 0;
